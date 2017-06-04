@@ -1,0 +1,4 @@
+https://about.sonarcloud.io/get-started/
+144a6cee9564aa482a291d5f1aa04d297b1b0b68
+
+c:\apache-maven-3.3.9\bin\mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=thimotyb-github -Dsonar.login=144a6cee9564aa482a291d5f1aa04d297b1b0b68
