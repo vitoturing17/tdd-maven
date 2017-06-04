@@ -36,7 +36,7 @@ public class CalculatorImplTest {
 		this.expected = expected;
 	}
 	
-	@Parameters
+	@Parameters( name = "{index}: add({0} + {1}) = {2}" )
 	public static Collection<Integer[]> getFixtureData() {
 		
 		return Arrays.asList(new Integer[][] {
