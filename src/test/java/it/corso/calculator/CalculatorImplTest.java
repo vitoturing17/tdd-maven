@@ -29,7 +29,6 @@ public class CalculatorImplTest {
 	 * 5) Declare the test runner as Parametrized
 	 */
 	private int num1, num2, expected;
-	
 	public CalculatorImplTest(int num1, int num2, int expected) {
 		this.num1 = num1;
 		this.num2 = num2;
