@@ -3,7 +3,7 @@
 
   <groupId>it.corso</groupId>
   <artifactId>calculator</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>calculator</name>
@@ -17,7 +17,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/thimotyb/tdd-maven.git</developerConnection>
-    <tag>calculator-0.0.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
