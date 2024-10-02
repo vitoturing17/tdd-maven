@@ -16,7 +16,7 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/thimotyb/tdd-maven.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/vitoturing17/tdd-maven.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
